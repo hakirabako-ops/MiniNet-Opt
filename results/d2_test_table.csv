@@ -1,0 +1,5 @@
+cas,loss_val,loss_test,loss_test_std,acc_test,acc_test_std,test - val
+Sans régularisation,0.1045,0.0652,0.014,0.9813,0.0087,-0.0394
+L2,0.0857,0.0611,0.0019,0.9853,0.0018,-0.0246
+Dropout,0.0977,0.0642,0.0059,0.982,0.0038,-0.0334
+Early stopping,0.0855,0.06,0.0029,0.9847,0.0051,-0.0255
